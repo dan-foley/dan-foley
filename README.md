@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dan</h1>
-<h3 align="center">A passionate frontend developer in the Chicagoland Area</h3>
+<h3 align="center">A passionate frontend developer from Glen Ellyn, Illinois</h3>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
+
+- 👨‍💻 My Website [https://danfoley.netlify.app/](https://danfoley.netlify.app/)
 
 - 📫 How to reach me **dpdfoley@yahoo.com**
 
